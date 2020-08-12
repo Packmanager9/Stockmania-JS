@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 89.000003 90.000001"
+   version="1.1"
+   id="svg3747"
+   sodipodi:docname="yes.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   width="89"
+   height="90">
+  <metadata
+     id="metadata3753">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Asset 118</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3751" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview3749"
+     showgrid="false"
+     inkscape:zoom="2.3698268"
+     inkscape:cx="4545.8163"
+     inkscape:cy="-46.60634"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3747" />
+  <title
+     id="title3741">Asset 118</title>
+  <g
+     id="2fe284c4-ef15-4bec-ae43-2973921db9bd"
+     data-name="Layer 2"
+     transform="matrix(1.0114818,0,0,1.0034364,4350.0002,2.0228704)">
+    <g
+       id="696661eb-c43b-4840-bc85-3797ccf22d15"
+       data-name="Layer 1">
+      <path
+         d="M 85.332,67.354 C 76.672,86.644 53.54,92.794 34.252,88.237 13.465,83.325 -3.335,64.966 0.566,42.731 4.642,19.5 26.333,2.636 48.922,0.038 a 4.11,4.11 0 0 1 3.772,1.314 5.181,5.181 0 0 1 2.092,-0.416 4.8,4.8 0 0 1 3.188,1.105 4.959,4.959 0 0 1 2.4,0.744 C 81.383,15.514 96.166,43.227 85.332,67.354 Z M 55.2,11.622 a 5.689,5.689 0 0 1 -0.632,-0.474 4.671,4.671 0 0 1 -3.5,-1.577 5.475,5.475 0 0 1 -2.154,0.7 C 31.76,12.247 15.393,25.4 11.076,42.4 6.567,60.17 20.568,74.551 36.976,78.356 50.765,81.556 67.931,78.21 75.201,64.85 85.721,45.52 72.01,21.808 55.2,11.622 Z"
+         id="path3743"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

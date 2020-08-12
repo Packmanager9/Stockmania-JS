@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 120 120"
+   version="1.1"
+   id="svg3775"
+   sodipodi:docname="s49.svg"
+   width="120"
+   height="120"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata3781">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Asset 132</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3779" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3777"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="1.3828179"
+     inkscape:cx="9.4763372"
+     inkscape:cy="62.154437"
+     inkscape:window-x="465"
+     inkscape:window-y="173"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3775" />
+  <title
+     id="title3769">Asset 132</title>
+  <g
+     id="32d09a0a-0105-42a2-b55c-77774a47bb90"
+     data-name="Layer 2"
+     transform="translate(20.610089,16.226394)">
+    <g
+       id="1d117b79-cc70-45f6-985b-eab037dc7ea3"
+       data-name="Layer 1">
+      <path
+         d="M 33.709,64 V 57.586 Q 24.955,66.342 16.2,75.093 h 58.04 c 6.6,0 6.587,10.24 0,10.24 H 6.4 a 4.638,4.638 0 0 1 -4.307,-2.5 c -2.147,-1.741 -3.117,-5 -0.594,-7.524 Q 17.6,59.207 33.709,43.106 V 24.747 c 0,-6.6 10.241,-6.588 10.241,0 v 8.12 L 66.576,10.24 H 5.124 C -1.476,10.24 -1.464,0 5.124,0 H 76.8 c 3.676,0 5.294,3.179 4.871,5.994 a 4.631,4.631 0 0 1 -1.253,4.881 Q 62.189,29.112 43.95,47.347 V 64 c 0,6.6 -10.241,6.587 -10.241,0 z"
+         id="path3771"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
